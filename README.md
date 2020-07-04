@@ -1,2 +1,10 @@
-# Em_DNN
-A task group using reason framework to implement deep learning work on Embedded platform.
+# Deep Learning work on embedded platform
+
+### Introduction
+
+This project is a task group use deep reasoning framework, such as MNN, NCNN, Tengine, to implement the deployment of deep learning tasks on the embedded platform.
+
+
+
+
+
