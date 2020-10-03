@@ -1,0 +1,3 @@
+/home/hyliu/MNN_Mask/MNN_Mask/build/CMakeFiles/rebuild_cache.dir
+/home/hyliu/MNN_Mask/MNN_Mask/build/CMakeFiles/edit_cache.dir
+/home/hyliu/MNN_Mask/MNN_Mask/build/CMakeFiles/FaceMask_MNN.dir

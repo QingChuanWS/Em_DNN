@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hyliu/MNN_Mask/MNN_Mask/build",
+  "command": "/usr/bin/g++-5   -I/usr/local/include/MNN -I/home/hyliu/MNN/3rd_party/imageHelper -isystem /usr/local/include -isystem /usr/local/include/opencv   -O0 -Wall -g2 -ggdb   -Wno-unused-command-line-argument -Wall -fPIC -g -funroll-loops -Wno-overloaded-virtual -Wno-deprecated-register -std=c++11 -o CMakeFiles/FaceMask_MNN.dir/FaceMask_MNN.cpp.o -c /home/hyliu/MNN_Mask/MNN_Mask/FaceMask_MNN.cpp",
+  "file": "/home/hyliu/MNN_Mask/MNN_Mask/FaceMask_MNN.cpp"
+}
+]
